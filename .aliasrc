@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# sudo not required for some system commands
+for command in pacman shutdown poweroff reboot ; do
+	alias $command="sudo $command"
+done; unset command
+
+# basic commands
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	ll="ls -al --color=auto --group-directories-first" \
+	ka="killall" \
+	p="pacman" \
+	sdn="shutdown -h now" \
+	x=startx
