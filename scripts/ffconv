@@ -1,0 +1,18 @@
+#!/bin/sh
+
+#Extract and convert using ffmpeg
+
+#Extract original audio aac
+#for vid in *.mp4; do ffmpeg -i "$vid" -vn -acodec copy "${vid%.mp4}.aac"; done
+
+#Convert video files to mp3
+#for vid in *.mp4; do ffmpeg -i "$vid" -vn -acodec libmp3lame "${vid%.mp4}.mp3"; done
+
+#Convert video files to m4a
+#for vid in *.mp4; do ffmpeg -i "$vid" -vn -acodec copy "${vid%.mp4}.m4a"; done
+
+#Convert video files to mp3
+#for vid in *.mp4; do ffmpeg -i "$vid" -map 0:a -c libmp3lame "${vid%.mp4}.mp3"; done
+
+#Convert video files to m4a
+for vid in *.mp4; do ffmpeg -i "$vid" -map 0:a -c copy "${vid%.mp4}.m4a"; done

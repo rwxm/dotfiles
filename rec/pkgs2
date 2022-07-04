@@ -1,0 +1,371 @@
+Name            : abook
+Version         : 0.6.1-6
+Description     : Text-based addressbook designed for use with Mutt
+
+Name            : arandr
+Version         : 0.1.10-4
+Description     : Provide a simple visual front end for XRandR 1.2.
+
+Name            : atool
+Version         : 0.39.0-6
+Description     : A script for managing file archives of various types
+
+Name            : autoconf
+Version         : 2.69-7
+Description     : A GNU tool for automatically configuring source code
+
+Name            : automake
+Version         : 1.16.2-1
+Description     : A GNU tool for automatically creating Makefiles
+
+Name            : base
+Version         : 2-2
+Description     : Minimal package set to define a basic Arch Linux installation
+
+Name            : bc
+Version         : 1.07.1-4
+Description     : An arbitrary precision calculator language
+
+Name            : binutils
+Version         : 2.34-5
+Description     : A set of programs to assemble and manipulate binary and object files
+
+Name            : bison
+Version         : 3.6.2-1
+Description     : The GNU general-purpose parser generator
+
+Name            : brave-bin
+Version         : 1:1.9.76-1
+Description     : Web browser that blocks ads and trackers by default (binary release).
+
+Name            : breeze-icons
+Version         : 5.71.0-1
+Description     : Breeze icon themes
+
+Name            : calcurse
+Version         : 4.6.0-1
+Description     : A text-based personal organizer.
+
+Name            : dialog
+Version         : 1:1.3_20200327-1
+Description     : A tool to display dialog boxes from shell scripts
+
+Name            : dosfstools
+Version         : 4.1-3
+Description     : DOS filesystem utilities
+
+Name            : dunst
+Version         : 1.4.1-1
+Description     : Customizable and lightweight notification-daemon
+
+Name            : efibootmgr
+Version         : 17-1
+Description     : Linux user-space application to modify the EFI Boot Manager
+
+Name            : exfat-utils
+Version         : 1.3.0-1
+Description     : Utilities for exFAT file system
+
+Name            : fakeroot
+Version         : 1.24-2
+Description     : Tool for simulating superuser privileges
+
+Name            : ffmpeg
+Version         : 1:4.2.3-2
+Description     : Complete solution to record, convert and stream audio and video
+
+Name            : flex
+Version         : 2.6.4-3
+Description     : A tool for generating text-scanning programs
+
+Name            : fzf
+Version         : 0.21.1-1
+Description     : Command-line fuzzy finder
+
+Name            : gcc
+Version         : 10.1.0-2
+Description     : The GNU Compiler Collection - C and C++ frontends
+
+Name            : git
+Version         : 2.26.2-1
+Description     : the fast distributed version control system
+
+Name            : gnome-keyring
+Version         : 1:3.36.0-1
+Description     : Stores passwords and encryption keys
+
+Name            : groff
+Version         : 1.22.4-3
+Description     : GNU troff text-formatting system
+
+Name            : grub
+Version         : 2:2.04-7
+Description     : GNU GRand Unified Bootloader (2)
+
+Name            : gtk-theme-arc-gruvbox-git
+Version         : r12.e5ea0ff-1
+Description     : A flat, grey gruvboxed theme with transparent elements for GTK 3, GTK 2 and gnome-shell. Latest commit from the master branch on Github.
+
+Name            : highlight
+Version         : 3.57-1
+Description     : Fast and flexible source code highlighter (CLI version)
+
+Name            : i3-gaps
+Version         : 4.18.1-2
+Description     : A fork of i3wm tiling window manager with more features, including gaps
+
+Name            : i3blocks
+Version         : 1.5-3
+Description     : Define blocks for your i3bar status line
+
+Name            : lf-git
+Version         : r532.c49140a-1
+Description     : lf is a terminal file manager written in Go
+
+Name            : libnotify
+Version         : 0.7.9-1
+Description     : Library for sending desktop notifications
+
+Name            : libtool
+Version         : 2.4.6+42+gb88cebd5-13
+Description     : A generic library support script
+
+Name            : libxft-bgra
+Version         : 2.3.3.r7.7808631e-1
+Description     : libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste
+
+Name            : linux-firmware
+Version         : 20200519.8ba6fa6-1
+Description     : Firmware files for Linux
+
+Name            : linux-lts
+Version         : 5.4.43-1
+Description     : The LTS Linux kernel and modules
+
+Name            : linux-lts-headers
+Version         : 5.4.43-1
+Description     : Headers and scripts for building modules for the LTS Linux kernel
+
+Name            : lynx
+Version         : 2.8.9-3
+Description     : A text browser for the World Wide Web
+
+Name            : m4
+Version         : 1.4.18-3
+Description     : The GNU macro processor
+
+Name            : maim
+Version         : 5.6.3-2
+Description     : Utility to take a screenshot using imlib2
+
+Name            : make
+Version         : 4.3-3
+Description     : GNU make utility to maintain groups of programs
+
+Name            : man-db
+Version         : 2.9.1-2
+Description     : A utility for reading man pages
+
+Name            : mediainfo
+Version         : 19.09-1
+Description     : Supplies technical and tag information about a video or audio file (CLI interface)
+
+Name            : modem-manager-gui
+Version         : 0.0.19.1-4
+Description     : Frontend for ModemManager daemon able to control specific modem functions
+
+Name            : mpc
+Version         : 0.33-2
+Description     : Minimalist command line interface to MPD
+
+Name            : mpd
+Version         : 0.21.23-4
+Description     : Flexible, powerful, server-side application for playing music
+
+Name            : mpv
+Version         : 1:0.32.0-4
+Description     : a free, open source, and cross-platform media player
+
+Name            : mutt-wizard-git
+Version         : r774.ge69a7ad-2
+Description     : A simple interface to auto-configure neomutt and isync with safe passwords
+
+Name            : nano
+Version         : 4.9.3-1
+Description     : Pico editor clone with enhancements
+
+Name            : ncmpcpp
+Version         : 0.8.2-12
+Description     : Almost exact clone of ncmpc with some new features
+
+Name            : neovim
+Version         : 0.4.3-3
+Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
+
+Name            : netctl
+Version         : 1.23-1
+Description     : Profile based systemd network management
+
+Name            : networkmanager
+Version         : 1.24.2-1
+Description     : Network connection manager and user applications
+
+Name            : newsboat
+Version         : 2.19-2
+Description     : An RSS/Atom feed reader for text terminals
+
+Name            : noto-fonts-emoji
+Version         : 20191016-6
+Description     : Google Noto emoji fonts
+
+Name            : ntfs-3g
+Version         : 2017.3.23-4
+Description     : NTFS filesystem driver and utilities
+
+Name            : ntp
+Version         : 4.2.8.p14-1
+Description     : Network Time Protocol reference implementation
+
+Name            : pamixer
+Version         : 1.4-3
+Description     : Pulseaudio command-line mixer like amixer
+
+Name            : patch
+Version         : 2.7.6-8
+Description     : A utility to apply patch files to original sources
+
+Name            : pkgconf
+Version         : 1.6.3-4
+Description     : Package compiler and linker metadata toolkit
+
+Name            : poppler
+Version         : 0.88.0-1
+Description     : PDF rendering library based on xpdf 3.0
+
+Name            : pulseaudio-alsa
+Version         : 1:1.2.2-2
+Description     : ALSA Configuration for PulseAudio
+
+Name            : pulsemixer
+Version         : 1.5.1-1
+Description     : CLI and curses mixer for pulseaudio
+
+Name            : sc-im
+Version         : 0.7.0-2
+Description     : A spreadsheet program based on SC
+
+Name            : simple-mtpfs-git
+Version         : r113.1578302583.9c763c0-1
+Description     : Simple MTP fuse filesystem driver
+
+Name            : slock
+Version         : 1.4-3
+Description     : A simple screen locker for X
+
+Name            : socat
+Version         : 1.7.3.4-1
+Description     : Multipurpose relay
+
+Name            : sudo
+Version         : 1.9.0-1
+Description     : Give certain users the ability to run some commands as root
+
+Name            : sxiv
+Version         : 26-1
+Description     : Simple X Image Viewer
+
+Name            : task-spooler
+Version         : 1.0-2
+Description     : Queue up tasks from the shell for batch execution
+
+Name            : texinfo
+Version         : 6.7-3
+Description     : GNU documentation system for on-line information and printed output
+
+Name            : tmux
+Version         : 3.1_b-1
+Description     : A terminal multiplexer
+
+Name            : ttf-linux-libertine
+Version         : 5.3.0-5
+Description     : Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage
+
+Name            : unclutter
+Version         : 1:1.5-1
+Description     : A small program for hiding the mouse cursor
+
+Name            : unrar
+Version         : 1:5.9.2-1
+Description     : The RAR uncompression program
+
+Name            : unzip
+Version         : 6.0-14
+Description     : For extracting and viewing files in .zip archives
+
+Name            : which
+Version         : 2.21-5
+Description     : A utility to show the full path of commands
+
+Name            : xcape
+Version         : 1.2-3
+Description     : Configure modifier keys to act as other keys when pressed and released on their own
+
+Name            : xclip
+Version         : 0.13-3
+Description     : Command line interface to the X11 clipboard
+
+Name            : xcompmgr
+Version         : 1.1.8-2
+Description     : Composite Window-effects manager for X.org
+
+Name            : xdotool
+Version         : 3.20160805.1-2
+Description     : Command-line X11 automation tool
+
+Name            : xorg-server
+Version         : 1.20.8-2
+Description     : Xorg X server
+
+Name            : xorg-xbacklight
+Version         : 1.2.3-2
+Description     : RandR-based backlight control application
+
+Name            : xorg-xdpyinfo
+Version         : 1.3.2-4
+Description     : Display information utility for X
+
+Name            : xorg-xinit
+Version         : 1.4.1-2
+Description     : X.Org initialisation program
+
+Name            : xorg-xprop
+Version         : 1.2.4-2
+Description     : Property displayer for X
+
+Name            : xorg-xwininfo
+Version         : 1.1.5-2
+Description     : Command-line utility to print information about windows on an X server
+
+Name            : xwallpaper
+Version         : 0.6.5-1
+Description     : Wallpaper setting utility for X
+
+Name            : yay
+Version         : 9.4.7-1
+Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
+
+Name            : youtube-dl
+Version         : 2020.05.29-1
+Description     : A small command-line program to download videos from YouTube.com and a few more sites
+
+Name            : zathura
+Version         : 0.4.5-1
+Description     : Minimalistic document viewer
+
+Name            : zathura-pdf-mupdf
+Version         : 0.3.5-3
+Description     : PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and OpenXPS)
+
+Name            : zsh-fast-syntax-highlighting
+Version         : 1.55-1
+Description     : Optimized and extended zsh-syntax-highlighting
