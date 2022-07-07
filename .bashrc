@@ -11,3 +11,4 @@ if [ -f ~/.xprofile ]; then . ~/.xprofile
 fi
 
 #[ -f ~/.xprofile ] && . ~/.xprofile
+
